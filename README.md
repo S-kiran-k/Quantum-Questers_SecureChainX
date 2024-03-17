@@ -17,7 +17,7 @@ Our solution SecureChainX:SecureChainX is a cutting-edge cryptography platform o
 | Name | Email | GitHub Profile |
 | :----: | :----: | :----: |
 | S Kiran Kumar| kiransrinivasan03@gmail.com |  [S Kiran Kumar](https://github.com/S-kiran-k) |
-| U Hari Prashanth| hariuk12345@gmail.com |  []() |
+| U Hari Prashanth| hariuk12345@gmail.com |  [hari-prashanth](https://github.com/hari-prashanth) |
 | Shoban Pradish | felixpradish1@gmail.com | []() |
 | Steve Hamilton | stevehamilton339@gmail.com | []() |
 
